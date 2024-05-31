@@ -12,7 +12,7 @@ Este proyecto incluye código en Python para entrenar, evaluar y comparar varios
 1. **Abrir el Notebook en Google Colab:**
 
     - Abre Google Colab en tu navegador.
-    - Haz clic en "Archivo" -> "Subir notebook" y selecciona el notebook de Google Colab `Ventas.ipynb` ubicado en la carpeta `Ventas`.
+    - Haz clic en "Archivo" -> "Subir notebook" y selecciona el notebook de Google Colab `Ventas.ipynb`
     - El notebook se abrirá en una nueva pestaña.
 
 2. **Ejecutar el Código:**
